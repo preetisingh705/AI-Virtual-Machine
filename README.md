@@ -39,7 +39,7 @@ Copy
 Edit
 
 # Clone the repository
-git clone https://github.com/your-username/ai-virtual-mouse.git
+git clone https://github.com/preetisingh705/AI-Virtual-Mouse.git
 cd ai-virtual-mouse
 
 # Install required packages
