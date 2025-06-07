@@ -15,10 +15,10 @@ Volume and brightness control using gestures
 
 Multi-hand support (left & right hand gestures)
 
-📽️ Demo
+# 📽️ Demo
 🎥 [Add your demo video link here, e.g. YouTube or Loom]
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 Python
 
 OpenCV
@@ -33,21 +33,11 @@ screen_brightness_control (Brightness control)
 
 Google Protobuf
 
-📦 Installation
+# 📦 Installation
 bash
 Copy
 Edit
-# Clone the repository
-git clone https://github.com/your-username/ai-virtual-mouse.git
-cd ai-virtual-mouse
 
-# Install required packages
-pip install -r requirements.txt
-
-📦 Installation
-bash
-Copy
-Edit
 # Clone the repository
 git clone https://github.com/your-username/ai-virtual-mouse.git
 cd ai-virtual-mouse
@@ -56,14 +46,13 @@ cd ai-virtual-mouse
 pip install -r requirements.txt
 
 
-
-
-🧠 How It Works
+# 🧠 How It Works
 Uses MediaPipe Hands to detect and track hand landmarks in real-time.
 
 Classifies gestures like pinch, V-sign, and fist to control mouse events.
 
-Gesture mappings:
+
+# Gesture mappings:
 
 ✌️ V Sign → Move Mouse
 
@@ -77,14 +66,15 @@ Gesture mappings:
 
 🤏 (Major Pinch) → Volume / Brightness Control
 
-📁 Project Structure
+# 📁 Project Structure
 bash
 Copy
 Edit
 ├── ai_virtual_mouse.py     # Main script
 ├── README.md
 └── requirements.txt
-🧪 How to Run
+
+# 🧪 How to Run
 bash
 Copy
 Edit
@@ -93,17 +83,17 @@ Ensure your webcam is connected.
 
 Use hand gestures in front of the camera to control your system.
 
-📸 Screenshots
+# 📸 Screenshots
 [Add a few screenshots showing the gesture and its action]
 
-💡 Future Improvements
+# 💡 Future Improvements
 Add GUI interface for calibration
 
 Gesture customization
 
 Add voice commands for hybrid control
 
-📄 License
+# 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
