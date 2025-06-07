@@ -87,7 +87,13 @@ Use hand gestures in front of the camera to control your system.
 [Add a few screenshots showing the gesture and its action]
 
 # 💡 Future Improvements
-Add GUI interface for calibration
+Add gesture-based keyboard control
+
+Multi-hand support
+
+GUI overlay with usage instructions
+
+Scroll control using two fingers
 
 Gesture customization
 
